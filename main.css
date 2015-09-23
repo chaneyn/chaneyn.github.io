@@ -31,6 +31,16 @@
   margin-left:auto;
 }
 
+.jumbotron h2 {
+  color: #fff;
+  font-size: 32px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+
 .learn-more {
   background-color: #f7f7f7;
 }

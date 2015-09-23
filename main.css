@@ -27,8 +27,8 @@
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
-  right:auto;
-  left:auto;
+  margin-right:auto;
+  margin-left:auto;
 }
 
 .learn-more {

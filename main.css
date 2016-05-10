@@ -20,12 +20,12 @@
 
 .jumbotron .container {
   position: relative;
-  top: 200px;
+  top: 20%;
 }
 
 .jumbotron a {
   position: relative;
-  top: 50px;
+  top: 10%;
   color: #fff;
   font-size: 36px;
   font-family: 'Shift', sans-serif;

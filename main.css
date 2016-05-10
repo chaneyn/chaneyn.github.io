@@ -22,6 +22,15 @@
   top: 100px;
 }
 
+.jumbotron a {
+  position: relative;
+  top: 50px;
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
 .jumbotron h1 {
   color: #fff;
   font-size: 48px;  

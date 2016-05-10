@@ -14,21 +14,22 @@
   background-image:url("http://www.nathanielchaney.com/ordesa2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 800px;
+  margin-bottom: 0px;
 }
 
 .jumbotron .container {
   position: relative;
-  top: 100px;
+  top: 200px;
 }
 
 .jumbotron a {
   position: relative;
   top: 50px;
   color: #fff;
-  font-size: 48px;
+  font-size: 36px;
   font-family: 'Shift', sans-serif;
-  font-weight: bold;
+  margin-right:auto;
+  margin-left:auto;
 }
 
 .jumbotron h1 {

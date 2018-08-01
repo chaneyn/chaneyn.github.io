@@ -39,18 +39,17 @@ body {
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 45px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
-  margin-right:auto;
-  margin-left:auto;
+  margin-left:10px;
 }
 
 .jumbotron h2 {
   color: #fff;
-  font-size: 24px;
-  margin-right:auto;
-  margin-left:auto;
+  font-size: 26px;
+  font-family: 'Shift', sans-serif;
+  margin-left:46px;
 }
 
 
